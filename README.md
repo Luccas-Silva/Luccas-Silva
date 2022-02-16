@@ -14,8 +14,7 @@
 
 <img align="right" alt="Lucccas-pic" height="125" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/817202921355739137/943297883208310894/Design_sem_nome.gif"/>
 
-<div
-  ![Snake animation](https://github.com/Luccas-Silva/Luccas-Silva/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/Luccas-Silva/Luccas-Silva/blob/output/github-contribution-grid-snake.svg)
+
 
 
