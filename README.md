@@ -1,21 +1,18 @@
-<h3>
-  ✨ Hello I'm Luccas Silva ✨
-<h3>
-  
-<h3>
-  ☕ I’m currently learning Java ☕ 
-<h3>
-  
+
+
+#### ✨ Hello I'm Luccas Silva ✨ 
+####  ☕ I’m currently learning Java ☕ 
+ 
 <div align="center">
+  <br> 
   <a href="https://github.com/Luccas-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luccas-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-Silva&layout=compact&langs_count=7&theme=dracula"/>
+  <br><br> 
 </div>
   
-<h2>
-  Skills:
-<h2>
-  
+### Skills:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div> 
