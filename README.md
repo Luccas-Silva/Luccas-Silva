@@ -12,6 +12,7 @@
 </div>
   
 ### Skills:
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </div> 
