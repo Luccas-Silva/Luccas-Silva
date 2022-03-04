@@ -1,7 +1,7 @@
 
 
-#### ✨ Hello I'm Luccas Silva ✨ 
-####  ☕ I’m currently learning Java ☕ 
+###  Hello! I'm Luccas Silva 👋 
+####  I’m currently learning Java ☕ 
  
 <div align="center">
   <br> 
