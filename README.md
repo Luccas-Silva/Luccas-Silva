@@ -1,5 +1,5 @@
 
-###  Hello! I'm Luccas Silva 👋
+### 👋 Hello! I'm Luccas Silva 👋
 - I’m currently learning Java ☕ 
 ##
 
