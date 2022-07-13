@@ -5,10 +5,12 @@
 
 <div align="center">
   <a href="https://github.com/Luccas-Silva">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luccas-Silva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-Silva&layout=compact&langs_count=7&theme=merko"/>
-</div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Luccas-Silva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luccas-Silva&layout=compact&langs_count=7&theme=merko"/>
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luccas-Silva&theme=merko&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats)
+  
+</div> 
 ### Skills:
 <div style="display: inline_block">
   <img align="center" alt="java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
