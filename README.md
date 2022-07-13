@@ -10,7 +10,8 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luccas-Silva&theme=merko&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats)
   
-</div> 
+</div>
+
 ### Skills:
 <div style="display: inline_block">
   <img align="center" alt="java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
