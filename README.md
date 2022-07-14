@@ -1,11 +1,12 @@
-<h3 align="">
-  Welcome to Luccas Silva's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ABD200&center=verdadeiro&vCenter=verdadeiro&lines=I%E2%80%99m+currently+learning+Java+;5%2B+years+of+coding+experience;Always+wanting+to+learn+new+things+">
-</p>
+<div align="">
+  <h3>
+    Welcome to Luccas Silva's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  </h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=ABD200&center=verdadeiro&vCenter=verdadeiro&width=450&lines=I%E2%80%99m+currently+learning+Java+;5%2B+years+of+coding+experience;Always+wanting+to+learn+new+things+">
+  </p>
+</div>  
 
 ### 💹 Github stats
 <div align="center">
@@ -23,7 +24,6 @@
 </div> 
   
 ##
-
 <div> 
   <a href="https://www.linkedin.com/in/luccas-dos-anjos-correia-da-silva-5b85661a8/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
+
 <div>
   <img src="https://github.com/Luccas-Silva/Luccas-Silva/blob/output/github-contribution-grid-snake.svg"/>
 </div>  
