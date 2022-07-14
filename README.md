@@ -1,9 +1,9 @@
-<h3 align="center">
+<h3 align="">
   Welcome to Luccas Silva's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
+<p align="">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ABD200&center=verdadeiro&vCenter=verdadeiro&lines=I%E2%80%99m+currently+learning+Java+;5%2B+years+of+coding+experience;Always+wanting+to+learn+new+things+">
 </p>
 
