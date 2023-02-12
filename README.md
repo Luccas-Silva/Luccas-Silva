@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h2>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=ABD200&center=&vCenter=&width=450&lines=I%E2%80%99m+currently+learning+Java;5%2B+years+of+coding+experience;Always+wanting+to+learn+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=AAD200&multiline=true&width=550&height=125&lines=Back-end+developer;I+am+currently+studying+Java;3%2B+years+of+coding+experience;I'm+always+wanting+to+learn+new+things" alt="Typing SVG" />
   </p>
 </div>  
 
