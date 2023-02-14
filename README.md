@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h2>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=AAD200&multiline=true&width=550&height=125&lines=Back-end+developer;I+am+currently+studying+Java;3%2B+years+of+coding+experience;I'm+always+wanting+to+learn+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&pause500&color=AAD200&multiline=true&width=550&height=125&lines=Back-end+developer;I+am+currently+studying+Java;3%2B+years+of+coding+experience;I'm+always+wanting+to+learn+new+things" alt="Typing SVG" />
   </p>
 </div>  
 
@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/luccas-dos-anjos-correia-da-silva-5b85661a8/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:lluccas.anjoss@gmail.com"> 
+  <a href="mailto:luccas.anjos@outlook.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/_luccaos_/" target="_blank">
