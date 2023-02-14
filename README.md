@@ -17,10 +17,10 @@
 
 ### 💻 Skills
 <div style="display: inline_block">
-  <img align="center" alt="java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
-  <img align="center" alt="spring" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-  <img align="center" alt="mysql" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="react" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img align="center" alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
+  <img align="center" alt="spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+  <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="react" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 </div> 
   
 ##
