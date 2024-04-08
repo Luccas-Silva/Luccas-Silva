@@ -1,8 +1,8 @@
 <div align="Welcome">
-  <h2>
+  <h1>
     Welcome to Luccas Silva's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h2>
+  </h1>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&pause500&color=AAD200&multiline=true&width=550&height=125&lines=Back-end+developer;I+am+currently+studying+Java;3%2B+years+of+coding+experience;I'm+always+wanting+to+learn+new+things" alt="Typing SVG" />
   </p>
