@@ -20,10 +20,13 @@
 <div style="display: inline_block">
   <img align="center" alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
   <img align="center" alt="spring" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+  <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="html5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="css3" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="typescript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="react" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  <img align="center" alt="figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
 </div> 
   
 ##
