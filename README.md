@@ -1,8 +1,10 @@
 <h1 align="left">Bem-vindo ao perfil de Luccas Silva! 👋</h1>
 
 ###
-
-<h3 align="left">...</h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&pause500&color=AAD200&multiline=true&width=550&height=125&lines=Back-end+developer;I+am+currently+studying+Java;3%2B+years+of+coding+experience;I'm+always+wanting+to+learn+new+things" alt="Typing SVG" />
+  </p>
+### [Portfólio](https://luccas-silva.netlify.app/)
 
 ###
 
