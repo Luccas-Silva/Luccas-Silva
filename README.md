@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&pause500&color=AAD200&multiline=true&width=550&height=125&lines=Back-end+developer;I+am+currently+studying+Java;3%2B+years+of+coding+experience;I'm+always+wanting+to+learn+new+things" alt="Typing SVG" /></h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&letterSpacing=&duration=1500&pause=1000&color=C470DB&multiline=true&repeat=false&width=500&height=150&lines=Back-end+Developer;Currently+studying;3+years+of+coding+experience;Always+looking+to+learn+new+things" alt="Typing SVG" />
 
 ### [Portfólio](https://luccas-silva.netlify.app/)
 
