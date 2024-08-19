@@ -1,4 +1,4 @@
-<h1 align="left">Bem-vindo ao perfil de Luccas Silva! 👋</h1>
+<h1 align="left">Welcome to Luccas Silva's profile! 👋</h1>
 
 ###
 
