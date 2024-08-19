@@ -1,4 +1,6 @@
-<h1 align="left">Welcome to Luccas Silva's profile! 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=Hello,%20I'm%20Luccas%20Silva&fontColor=C470DB">
+</div>
 
 ###
 
