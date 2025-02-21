@@ -2,36 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hello,%20I'm%20Luccas%20Silva&fontColor=C470DB&fontSize=50">
 </div>
 
-###
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&letterSpacing=&duration=1500&pause=1000&color=C470DB&multiline=true&repeat=false&width=500&height=150&lines=Back-end+Developer;Currently+studying;3+years+of+coding+experience;Always+looking+to+learn+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&letterSpacing=&duration=1500&pause=1000&color=C470DB&multiline=true&repeat=false&width=500&height=120&lines=Back-end+Developer;Currently+studying;3+years+of+coding+experience;Always+looking+to+learn+new+things" alt="Typing SVG" />
 
 ### [Portfólio](https://luccas-silva.netlify.app/)
 
-###
-
-<br clear="both">
-
 <h3 align="left">🔥 Github Stats</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luccas-Silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luccas-Silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true" height="190" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h3 align="left">💻 Skills</h3>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="50" alt="java logo"  />
@@ -55,13 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
 
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/lucccas.silva/" target="_blank">
@@ -72,4 +48,3 @@
   </a>
 </div>
 
-###
