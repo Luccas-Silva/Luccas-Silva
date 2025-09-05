@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&letterSpacing=&duration=1500&pause=1000&color=C470DB&multiline=true&repeat=false&width=500&height=120&lines=Back-end+Developer;Currently+studying;3+years+of+coding+experience;Always+looking+to+learn+new+things" alt="Typing SVG" />
 
-### [Portfólio](https://luccas-silva.netlify.app/)
-
 <h3 align="left">🔥 Github Stats</h3>
 
 <div align="center">
