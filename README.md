@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hello,%20I'm%20Luccas%20Silva&fontColor=C470DB&fontSize=50">
 </div>
 
+<!--
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&letterSpacing=&duration=1500&pause=1000&color=C470DB&multiline=true&repeat=false&width=500&height=120&lines=Back-end+Developer;Currently+studying;3+years+of+coding+experience;Always+looking+to+learn+new+things" alt="Typing SVG" />
+-->
 
 <h3 align="left">🔥 Github Stats</h3>
 
