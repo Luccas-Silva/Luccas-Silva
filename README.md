@@ -39,7 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+<div>
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+</div>
 
 <div align="left">
   <a href="https://www.instagram.com/lucccas.silva/" target="_blank">
